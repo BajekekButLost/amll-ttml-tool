@@ -6,7 +6,7 @@
 
 一个全新的逐词歌词编辑器！针对 [Apple Music-like Lyrics 生态](https://github.com/amll-dev/applemusic-like-lyrics)制作！
 
-> [!INFO]
+> [!TIP]
 > English users, please refer to the [english version](./README-en.md)
 
 <img width="1312" alt="image" src="https://github.com/user-attachments/assets/4db81b29-df0c-4f6e-819a-3b956b28247c">
